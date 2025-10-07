@@ -31,7 +31,6 @@
 <li class="my-0"><a href="#prerequisites">Prerequisites</a></li>
 <li class="my-0"><a href="#installation">Installation</a></li>
 <li class="my-0"><a href="#usage">Usage</a></li>
-<li class="my-0"><a href="#testing">Testing</a></li>
 </ul>
 </li>
 </ul>
