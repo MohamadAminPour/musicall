@@ -51,10 +51,12 @@
 <hr>
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
-<p>This project requires the following dependencies:</p>
+<p>This project includes the following:</p>
 <ul class="list-disc pl-4 my-0">
-<li class="my-0"><strong>Programming Language:</strong> TypeScript</li>
+<li class="my-0"><strong>Frontend Language:</strong>NextJs & TypeScript</li>
+<li class="my-0"><strong>Backend Language:</strong> NodeJs & ExpressJs</li>
 <li class="my-0"><strong>Package Manager:</strong> Npm</li>
+<li class="my-0"><strong>Database:</strong> MongoDB</li>
 </ul>
 <h3>Installation</h3>
 <p>Build musicall from the source and install dependencies:</p>
