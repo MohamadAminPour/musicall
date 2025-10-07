@@ -65,8 +65,14 @@
 </code></pre>
 </li>
 <li class="my-0">
-<p><strong>Navigate to the project directory:</strong></p>
-<pre><code class="language-sh">❯ cd musicall
+<p><strong>Navigate to the project directories:</strong></p>
+<pre><code class="language-sh">❯ cd backend
+</code></pre>
+<pre><code class="language-sh">❯ npm install
+</code></pre>
+<pre><code class="language-sh">❯ cd frontend
+</code></pre>
+<pre><code class="language-sh">❯ npm install
 </code></pre>
 </li>
 <li class="my-0">
@@ -88,4 +94,4 @@
 </code></pre>
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
-<hr></div></div></div></div>
+</div></div></div></div>
