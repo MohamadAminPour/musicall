@@ -50,10 +50,10 @@
 </ul>
 <hr>
 <h2>Getting Started</h2>
-<h3>Prerequisites</h3>
+<h3>Structure</h3>
 <p>This project includes the following:</p>
 <ul class="list-disc pl-4 my-0">
-<li class="my-0"><strong>Frontend Language:</strong>NextJs & TypeScript</li>
+<li class="my-0"><strong>Frontend Language:</strong> NextJs & TypeScript</li>
 <li class="my-0"><strong>Backend Language:</strong> NodeJs & ExpressJs</li>
 <li class="my-0"><strong>Package Manager:</strong> Npm</li>
 <li class="my-0"><strong>Database:</strong> MongoDB</li>
