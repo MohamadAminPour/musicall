@@ -76,9 +76,6 @@
 </pre>
 </li>
 </ol>
-<p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">❯ npm install
-</code></pre>
 <h3>Usage</h3>
 <p>Run the backend project with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
@@ -86,10 +83,8 @@
 </code></pre>
 <p>Run the frontend project with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">nodemon server.js
+<pre><code class="language-sh">npm run dev
 </code></pre>
 <h3>Finish</h3>
 <p>Musicall is run and you can see it on browser ✅</p>
-<hr>
-<div align="left" class=""><a href="#top">⬆ Return</a></div>
 </div></div></div></div>
