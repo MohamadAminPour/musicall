@@ -65,10 +65,9 @@
 </code></pre>
 </li>
 <li class="my-0">
-<p><strong>Navigate to the project directories:</strong></p>
+<p><strong>Navigate to the project directories abd install dependencies:</strong></p>
 <pre><code class="language-sh">❯ cd backend
-</code></pre>
-<pre><code class="language-sh">❯ npm install
+</code><code class="language-sh">❯ npm install
 </code></pre>
 <pre><code class="language-sh">❯ cd frontend
 </code></pre>
