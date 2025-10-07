@@ -1,0 +1,50 @@
+Musicall API
+Base_Api : http://localhost:3000
+
+
+login : 
+POST   => check username : /api/auth/login
+
+register :
+POST   => create user : /api/auth/register
+
+musics :
+GET    => get all musics : /api/musics
+GET    => get music : /api/musics/:id
+POST   => create music : /api/musics
+DELETE => delete music : /api/musics/:id
+
+
+artists :
+GET    => get all musics : /api/artists
+GET    => get artist : /api/artists/:id
+POST   => create artist : /api/artists
+DELETE => delete artist : /api/artists/:id
+
+
+albums :
+GET    => get all albums : /api/albums
+GET    => get album : /api/albums/:id
+POST   => create album : /api/albums
+DELETE => delete album : /api/albums/:id
+
+
+users :
+GET    => get all users : /api/users
+GET    => get user : /api/users/:id
+POST   => create user : /api/users
+DELETE => delete user : /api/users/:id
+
+
+comments :
+GET    => get all comments : /api/comments
+GET    => get comment : /api/comments/:id
+POST   => create comment : /api/comments
+DELETE => delete comment : /api/comments/:id
+
+
+categories :
+GET    => get all categories: /api/categories
+GET    => get categories : /api/categories/:id
+POST   => create categories : /api/categories
+DELETE => delete categories : /api/categories/:id
