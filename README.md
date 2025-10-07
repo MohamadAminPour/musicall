@@ -66,31 +66,30 @@
 </li>
 <li class="my-0">
 <p><strong>Navigate to the project directories abd install dependencies:</strong></p>
-<pre><code class="language-sh">❯ cd backend
-</code><code class="language-sh">❯ npm install
-</code></pre>
-<pre><code class="language-sh">❯ cd frontend
-</code></pre>
-<pre><code class="language-sh">❯ npm install
-</code></pre>
-</li>
-<li class="my-0">
-<p><strong>Install the dependencies:</strong></p>
+<pre>
+  <code class="language-sh">❯ cd backend</code>
+  <code class="language-sh">❯ npm install</code>
+</pre>
+<pre>
+  <code class="language-sh">❯ cd frontend</code>
+  <code class="language-sh">❯ npm install</code>
+</pre>
 </li>
 </ol>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
 <pre><code class="language-sh">❯ npm install
 </code></pre>
 <h3>Usage</h3>
-<p>Run the project with:</p>
+<p>Run the backend project with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm start
+<pre><code class="language-sh">nodemon server.js
 </code></pre>
-<h3>Testing</h3>
-<p>Musicall uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
+<p>Run the frontend project with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm test
+<pre><code class="language-sh">nodemon server.js
 </code></pre>
+<h3>Finish</h3>
+<p>Musicall is run and you can see it on browser ✅</p>
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
 </div></div></div></div>
