@@ -10,11 +10,12 @@ export interface IUser {
 
 export default function AdminUsers() {
   const [users, setUsers] = useState<IUser[] | null>(null);
+  const BASE_API = process.env.NEXT_PUBLIC_API_URL
 
   //get users
   async function getUsers() {
     try {
-      const res = await fetch("http://127.0.0.1:5500/api/users/");
+      const res = await fetch(`${BASE_API}/api/users/`);
       const data = await res.json();
       setUsers(data);
     } catch (error) {
@@ -30,7 +31,7 @@ export default function AdminUsers() {
   //remove user
   async function removeUserHandle(id: string) {
     try {
-      const res = await fetch(`http://127.0.0.1:5500/api/users/${id}`, {
+      const res = await fetch(`${BASE_API}/api/users/${id}`, {
         method: "DELETE",
       });
       const data = await res.json();
